@@ -11,7 +11,6 @@ Time can be incremented in intervals of:
 ・ 1 second
 
 Program can be controlled with the following buttons:
-
 ・ Start<br>
 ・ Stop<br> 
 ・ Reset
