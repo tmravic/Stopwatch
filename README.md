@@ -1,9 +1,9 @@
 # Stopwatch
-This is a stopwatch program which handles input and can do the following tasks.
-・Take in a time 
-・Countdown
-・Pause
-・Reset its time
+This is a stopwatch program which handles input and can do the following tasks.<br> 
+・Take in a time <br> 
+・Countdown<br> 
+・Pause<br> 
+・Reset its time<br> 
 
 Time can be incremented in intervals of:  
 ・ 1 minute  
@@ -13,8 +13,5 @@ Time can be incremented in intervals of:
 Program can be controlled with the following buttons:
 
 ・ Start<br>
-・ Stop*<br> 
+・ Stop<br> 
 ・ Reset
-
-* This pauses the the stopwatch.  
-
