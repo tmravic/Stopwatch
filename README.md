@@ -17,3 +17,4 @@ Program can be controlled with the following buttons:
 ・ Reset
 
 * This pauses the the stopwatch.  
+
