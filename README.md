@@ -1,13 +1,18 @@
 # Stopwatch
-This is a stopwatch program which can input a time and countdown, pause, and reset its time.  
-Use these buttons to increment time:  
+This is a stopwatch program which handles input and can do the following tasks.
+・Take in a time 
+・Countdown
+・Pause
+・Reset its time
+
+Time can be incremented in intervals of:  
 ・ 1 minute  
 ・ 10 seconds  
-・ 1 seconds  
+・ 1 second
 
-Use these buttons to control the time flow:  
-・ Start  
-・ Stop *  
-・ Reset  
-  
+Program can be controlled with the following buttons:
+・ Start
+・ Stop *
+・ Reset
+
 * This pauses the the stopwatch.  
