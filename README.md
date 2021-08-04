@@ -12,9 +12,8 @@ Time can be incremented in intervals of:
 
 Program can be controlled with the following buttons:
 
-・ Start
-・ Stop *
+・ Start<br>
+・ Stop*<br> 
 ・ Reset
-
 
 * This pauses the the stopwatch.  
